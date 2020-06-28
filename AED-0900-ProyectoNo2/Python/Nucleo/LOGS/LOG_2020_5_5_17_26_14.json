@@ -1,0 +1,49 @@
+{
+    "pantallas": {
+        "Resources": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "Pantallas": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        ".ui": {
+            "weight": 42.58,
+            "totalFiles": 10
+        }
+    },
+    "Resources": {
+        ".jpg": {
+            "weight": 4060.3100000000004,
+            "totalFiles": 4
+        },
+        ".png": {
+            "weight": 411.05000000000007,
+            "totalFiles": 22
+        },
+        ".py": {
+            "weight": 8440.99,
+            "totalFiles": 1
+        },
+        ".qrc": {
+            "weight": 0.8,
+            "totalFiles": 1
+        }
+    },
+    "Pantallas": {
+        ".py": {
+            "weight": 2.3200000000000003,
+            "totalFiles": 1
+        },
+        ".ui": {
+            "weight": 1.6800000000000002,
+            "totalFiles": 1
+        }
+    },
+    ".ui": {},
+    ".jpg": {},
+    ".png": {},
+    ".py": {},
+    ".qrc": {}
+}

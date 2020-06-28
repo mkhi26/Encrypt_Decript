@@ -1,0 +1,71 @@
+{
+    "Encriptado": {
+        "OWNAlgorithm": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "AES_256": {
+            "weight": 0,
+            "totalFiles": 0
+        }
+    },
+    "OWNAlgorithm": {
+        "pantallas": {
+            "weight": 0,
+            "totalFiles": 0
+        }
+    },
+    "AES_256": {
+        "pantallas": {
+            "weight": 0,
+            "totalFiles": 0
+        }
+    },
+    "pantallas": {
+        "Resources": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "Pantallas": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        ".ui": {
+            "weight": 85.48,
+            "totalFiles": 20
+        }
+    },
+    "Resources": {
+        ".png": {
+            "weight": 1022.4500000000002,
+            "totalFiles": 44
+        },
+        ".jpg": {
+            "weight": 10034.449999999999,
+            "totalFiles": 8
+        },
+        ".py": {
+            "weight": 16882.0,
+            "totalFiles": 2
+        },
+        ".qrc": {
+            "weight": 1.65,
+            "totalFiles": 2
+        }
+    },
+    "Pantallas": {
+        ".py": {
+            "weight": 3.67,
+            "totalFiles": 2
+        },
+        ".ui": {
+            "weight": 2.3899999999999997,
+            "totalFiles": 2
+        }
+    },
+    ".ui": {},
+    ".png": {},
+    ".jpg": {},
+    ".py": {},
+    ".qrc": {}
+}
