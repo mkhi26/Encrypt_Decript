@@ -1,0 +1,396 @@
+{
+    "miniJuego": {
+        "css": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "js": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        ".git": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "LinkedList": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        ".html": {
+            "weight": 3.28,
+            "totalFiles": 1
+        }
+    },
+    "css": {
+        ".css": {
+            "weight": 1.27,
+            "totalFiles": 1
+        }
+    },
+    "js": {
+        ".js": {
+            "weight": 3.86,
+            "totalFiles": 1
+        }
+    },
+    ".git": {
+        "branches": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "refs": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "logs": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "objects": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "hooks": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "info": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        ".index": {
+            "weight": 0.53,
+            "totalFiles": 1
+        },
+        ".description": {
+            "weight": 0.07,
+            "totalFiles": 1
+        },
+        ".COMMIT_EDITMSG": {
+            "weight": 0.03,
+            "totalFiles": 1
+        },
+        ".config": {
+            "weight": 0.27,
+            "totalFiles": 1
+        },
+        ".HEAD": {
+            "weight": 0.02,
+            "totalFiles": 1
+        }
+    },
+    "LinkedList": {
+        ".js": {
+            "weight": 4.3100000000000005,
+            "totalFiles": 2
+        }
+    },
+    "branches": {},
+    "refs": {
+        "remotes": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "heads": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "tags": {
+            "weight": 0,
+            "totalFiles": 0
+        }
+    },
+    "logs": {
+        "refs": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        ".HEAD": {
+            "weight": 1.96,
+            "totalFiles": 1
+        }
+    },
+    "objects": {
+        "47": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "17": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "83": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "8a": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "05": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "99": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "f3": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "5d": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "20": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "02": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "a8": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "cc": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "0c": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "31": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "4b": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "4a": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "d2": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "ed": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "b8": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "cf": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "info": {
+            "weight": 0,
+            "totalFiles": 0
+        },
+        "pack": {
+            "weight": 0,
+            "totalFiles": 0
+        }
+    },
+    "hooks": {
+        ".sample": {
+            "weight": 18.849999999999998,
+            "totalFiles": 11
+        }
+    },
+    "info": {
+        ".exclude": {
+            "weight": 0.24,
+            "totalFiles": 1
+        }
+    },
+    "remotes": {
+        "origin": {
+            "weight": 0,
+            "totalFiles": 0
+        }
+    },
+    "heads": {
+        ".main": {
+            "weight": 1.8,
+            "totalFiles": 2
+        }
+    },
+    "tags": {},
+    "origin": {
+        ".main": {
+            "weight": 0.51,
+            "totalFiles": 2
+        }
+    },
+    "47": {
+        ".da8c693684e56395cbbe1cada22089783dfd51": {
+            "weight": 1.19,
+            "totalFiles": 1
+        },
+        ".417100045d3dc3bf9ee8ff9332c50a931f15a0": {
+            "weight": 1.14,
+            "totalFiles": 1
+        }
+    },
+    "17": {
+        ".74f8bf04c8e7ee767e0fcbdfc22415c76ccb3c": {
+            "weight": 1.18,
+            "totalFiles": 1
+        }
+    },
+    "83": {
+        ".74e31455e36bacf3d64b274c7c31476719edda": {
+            "weight": 0.18,
+            "totalFiles": 1
+        }
+    },
+    "8a": {
+        ".9ff9974c4afe3e9e5c24cda1676fef56bfaa1e": {
+            "weight": 0.05,
+            "totalFiles": 1
+        }
+    },
+    "05": {
+        ".8398d67a80261ac03a5ea3e610d0ef06c3f61c": {
+            "weight": 0.05,
+            "totalFiles": 1
+        }
+    },
+    "99": {
+        ".348f3694a1822e7a7c962d347dabd1f8763f45": {
+            "weight": 0.07,
+            "totalFiles": 1
+        }
+    },
+    "f3": {
+        ".32d402f20afbce5869c4e170ccbb95ad9e4312": {
+            "weight": 0.05,
+            "totalFiles": 1
+        },
+        ".4b00a3428369044741946c358e342fb0097da0": {
+            "weight": 0.14,
+            "totalFiles": 1
+        }
+    },
+    "5d": {
+        ".e3b66a81320c8ff1e01122f3067da722656529": {
+            "weight": 0.22,
+            "totalFiles": 1
+        }
+    },
+    "20": {
+        ".226957ed3004c7b5395f42c29bb8478ccf9f1e": {
+            "weight": 0.18,
+            "totalFiles": 1
+        }
+    },
+    "02": {
+        ".fcaf1dcca99fb888260059f32930e348286f0b": {
+            "weight": 0.68,
+            "totalFiles": 1
+        }
+    },
+    "a8": {
+        ".3b35fab8e2bc1516e533000c0be07e364a6cfd": {
+            "weight": 0.15,
+            "totalFiles": 1
+        }
+    },
+    "cc": {
+        ".522ace9c5780bdf11feed733ca1d914584825b": {
+            "weight": 1.2,
+            "totalFiles": 1
+        }
+    },
+    "0c": {
+        ".9e0f5e0df07b92f5c0363e1828fdde63e63388": {
+            "weight": 1.19,
+            "totalFiles": 1
+        }
+    },
+    "31": {
+        ".51fa8f99d3e34692fb5f42f4c1e6f4c89dc2ec": {
+            "weight": 0.05,
+            "totalFiles": 1
+        }
+    },
+    "4b": {
+        ".825dc642cb6eb9a060e54bf8d69288fbee4904": {
+            "weight": 0.01,
+            "totalFiles": 1
+        }
+    },
+    "4a": {
+        ".7156369830e0de02fc57ebccca5d5af022db46": {
+            "weight": 0.14,
+            "totalFiles": 1
+        }
+    },
+    "d2": {
+        ".bfc78bfde66c2846ae82403bd7101dd81024f6": {
+            "weight": 0.3,
+            "totalFiles": 1
+        }
+    },
+    "ed": {
+        ".03caed67f5e8a5abb512fc06f2aa071ffd80ec": {
+            "weight": 0.09,
+            "totalFiles": 1
+        }
+    },
+    "b8": {
+        ".a6e76d65093ca432d3189a55a8ff0b8ff44235": {
+            "weight": 1.17,
+            "totalFiles": 1
+        }
+    },
+    "cf": {
+        ".d807bb1327281a7bd54fe11443cfc158b6be5a": {
+            "weight": 0.13,
+            "totalFiles": 1
+        }
+    },
+    "pack": {},
+    ".html": {},
+    ".css": {},
+    ".js": {},
+    ".index": {},
+    ".description": {},
+    ".COMMIT_EDITMSG": {},
+    ".config": {},
+    ".HEAD": {},
+    ".main": {},
+    ".da8c693684e56395cbbe1cada22089783dfd51": {},
+    ".417100045d3dc3bf9ee8ff9332c50a931f15a0": {},
+    ".74f8bf04c8e7ee767e0fcbdfc22415c76ccb3c": {},
+    ".74e31455e36bacf3d64b274c7c31476719edda": {},
+    ".9ff9974c4afe3e9e5c24cda1676fef56bfaa1e": {},
+    ".8398d67a80261ac03a5ea3e610d0ef06c3f61c": {},
+    ".348f3694a1822e7a7c962d347dabd1f8763f45": {},
+    ".32d402f20afbce5869c4e170ccbb95ad9e4312": {},
+    ".4b00a3428369044741946c358e342fb0097da0": {},
+    ".e3b66a81320c8ff1e01122f3067da722656529": {},
+    ".226957ed3004c7b5395f42c29bb8478ccf9f1e": {},
+    ".fcaf1dcca99fb888260059f32930e348286f0b": {},
+    ".3b35fab8e2bc1516e533000c0be07e364a6cfd": {},
+    ".522ace9c5780bdf11feed733ca1d914584825b": {},
+    ".9e0f5e0df07b92f5c0363e1828fdde63e63388": {},
+    ".51fa8f99d3e34692fb5f42f4c1e6f4c89dc2ec": {},
+    ".825dc642cb6eb9a060e54bf8d69288fbee4904": {},
+    ".7156369830e0de02fc57ebccca5d5af022db46": {},
+    ".bfc78bfde66c2846ae82403bd7101dd81024f6": {},
+    ".03caed67f5e8a5abb512fc06f2aa071ffd80ec": {},
+    ".a6e76d65093ca432d3189a55a8ff0b8ff44235": {},
+    ".d807bb1327281a7bd54fe11443cfc158b6be5a": {},
+    ".sample": {},
+    ".exclude": {}
+}
